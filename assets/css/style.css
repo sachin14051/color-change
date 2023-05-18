@@ -1,0 +1,30 @@
+.all > div{
+    height: 150px;
+    /* width: 150px; */
+    /* background-color: red; */
+    border: 2px solid black
+}
+
+.all{
+    margin-top: 20px;
+}
+
+.black > div{
+    background-color: black;
+}
+
+.red > div{
+    background-color: red;
+}
+
+.green > div{
+    background-color: green;
+}
+
+.orange > div{
+    background-color: orange;
+}
+
+body{
+    background-color: rgb(217, 223, 203);
+}
